@@ -13,7 +13,20 @@ $obj = new Database();
 // echo "Update result is :";
 // print_r($obj->getResult());
 
-$obj->delete('students', 'id="7"');
-echo "Delete result is :";
+// $obj->delete('students', 'id="7"');
+// echo "Delete result is :";
+// print_r($obj->getResult());
+
+// $obj->sql('SELECT * FROM students WHERE age = "22"');
+// echo "Sql result is :";
+// echo"<pre>";
+// print_r($obj->getResult());
+// echo "</pre>";
+
+$obj->select('students', '*', null, null, 'student_name', null);
+echo "Select result is :";
+echo"<pre>";
 print_r($obj->getResult());
+echo "</pre>";
+
 ?>
