@@ -10,7 +10,7 @@ A simple CRUD (Create, Read, Update, Delete) application built using PHP Object-
 * Delete Records
 * MySQL Database Integration
 * OOP Based Structure
-* Reusable Database Class
+* Reusable Database Classes
 
 ## Technologies Used
 
