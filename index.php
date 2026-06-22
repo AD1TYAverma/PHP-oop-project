@@ -1,6 +1,9 @@
 <?php
-include "database.php";
 
+// This is CRUD Operation using OOP in PHP
+
+
+include "database.php";
 
 
 $obj = new Database();
