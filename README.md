@@ -2,6 +2,8 @@
 
 A simple CRUD (Create, Read, Update, Delete) application built using PHP Object-Oriented Programming (OOP) and MySQL.
 
+This is My First OOP Mini Project.
+
 ## Features
 
 * Create Records
