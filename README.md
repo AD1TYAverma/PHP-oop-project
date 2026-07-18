@@ -1,4 +1,4 @@
-# PHP OOP CRUD Application-->
+# PHP OOP CRUD Application
 
 A simple CRUD (Create, Read, Update, Delete) application built using PHP Object-Oriented Programming (OOP) and MySQL.
 
@@ -9,7 +9,7 @@ A simple CRUD (Create, Read, Update, Delete) application built using PHP Object-
 * Update Records
 * Delete Records
 * MySQL Database Integration
-* OOP Based Structure
+* OOP (Object-Oriented Programming) Based Structure
 * Reusable Database Classes
 
 ## Technologies Used
