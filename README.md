@@ -67,10 +67,4 @@ http://localhost/project-folder
 
 ## Author
 
-Aditya Verma
-
-## License
-
-This project is open-source and available for learning purposes.
-
-Co-authored-by: Friend Name <surajchaudhari761@gmail.com>
+Aditya Verma.
