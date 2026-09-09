@@ -61,7 +61,7 @@ http://localhost/project-folder
 ## CRUD Operations
 
 * Insert Data
-* Fetch Data
+* Fetch Data/Read Data
 * Update Data
 * Delete Data
 
